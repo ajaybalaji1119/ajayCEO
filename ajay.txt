@@ -1,0 +1,11 @@
+Welcome to ajay environment
+
+C
+C++
+Python
+Java
+Golang
+Mongodb
+MySql
+javascript
+C#

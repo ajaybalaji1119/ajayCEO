@@ -9,6 +9,7 @@ Mongodb
 MySql
 javascript
 C#
+scala
 
 
 
